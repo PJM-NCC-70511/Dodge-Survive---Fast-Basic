@@ -1,0 +1,48 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+Compilator.LogEncoding=0
+DefaultCP=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+HTServer=ÿ
+[Project tree]
+DodgeSurviveFB
+	+Folder
+		DODGESURVIVE_ML_DAT.asm
+		DODGE SURVIVE FAST.BAS
+[Open project files]
+0=DODGESURVIVE_ML_DAT.asm
+1=atari_sound_commander_bas.asm
+2=DODGE_SURVIVE_FAST.BAS
+3=..\Bug_Invade_C\BUGINVADE_BAS_ML_DAT.asm
+4=..\Fast_Basic_Projects\DODGE SURVIVE FAST.BAS
+5=..\Bug_Invade_C\BUG_INVADE.BAS
+[Selected Project Files]
+Main=
+Selected=DODGE_SURVIVE_FAST.BAS
+[DODGESURVIVE_ML_DAT.asm]
+TopLine=188
+Caret=18,214
+[atari_sound_commander_bas.asm]
+TopLine=140
+Caret=12,147
+[DODGE_SURVIVE_FAST.BAS]
+TopLine=1
+Caret=1,2
+[..\Bug_Invade_C\BUGINVADE_BAS_ML_DAT.asm]
+TopLine=190
+Caret=21,225
+[..\Fast_Basic_Projects\DODGE SURVIVE FAST.BAS]
+TopLine=257
+Caret=36,284
+[..\Bug_Invade_C\BUG_INVADE.BAS]
+TopLine=608
+Caret=23,635
